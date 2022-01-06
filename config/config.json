@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "sql6463691",
+    "password": "HLsMLvkDub",
+    "database": "sql6463691",
+    "host": "sql6.freemysqlhosting.net",
+    "dialect": "mysql",
+    "port" : "3306"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+    
+  },
+  "production": {
+    "username": "sql6463691",
+    "password": "HLsMLvkDub",
+    "database": "sql6463691",
+    "host": "sql6.freemysqlhosting.net",
+    "dialect": "mysql",
+    "port" : "3306"
+  }
+}
